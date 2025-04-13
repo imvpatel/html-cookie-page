@@ -1,0 +1,33 @@
+# html-cookie-page
+A clean, beginner-friendly HTML project presenting a classic chocolate chip cookie recipe. Great for learning semantic structure and list formatting.
+
+📁 Project Overview:
+  - This repository is a collection of beginner-friendly HTML projects designed to help new web developers learn and practice the foundational concepts of web development.
+  - Each project focuses on using core HTML elements in real-world scenarios, such as building recipe pages, simple portfolios, product landing pages, and more.
+  - The aim is to provide hands-on learning experiences through small, practical web pages that demonstrate proper structure, semantic HTML, and clean code organization.
+  - These projects are perfect for students, coding bootcamp participants, or self-taught learners who want to reinforce what they've learned in a creative and engaging way.
+
+
+🎯 What You’ll Learn:
+   - How to structure a basic HTML document.
+   - The use of semantic elements like <h1> to <h6>, <p>, <ul>, <ol>, <li>, <img>, and more......
+   - How to organize content logically and readably.
+   - Embedding and displaying media. (e.g., images)
+   - Creating real-world mini-projects to build confidence.
+
+📌 Included Projects:
+   -> Chocolate Chip Cookie Recipe Page 
+       -A simple recipe layout using headings, paragraphs, lists, and an image. Great for practicing content formatting and visual structure.
+
+
+🧑‍💻 Who This Is For:
+   - Complete beginners looking to get hands-on with HTML.
+   - Students and hobbyists building their first web pages.
+   - Anyone looking for easy mini-projects to reinforce HTML fundamentals.
+
+🚀 Future Plans:
+    - As this project grows, more HTML projects will be added, and eventually CSS and JavaScript enhancements may be introduced. 
+    - Stay tuned and feel free to contribute or fork it for your own learning journey!
+
+
+
